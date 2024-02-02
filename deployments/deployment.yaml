@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: maven-ustsample-deployment-tekton
+  name: maven-ustsample-deployment-tekton-1
   labels:
     app: ust-sample-poc
 spec:
