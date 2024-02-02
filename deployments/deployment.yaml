@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: maven-ustsample-deployment-tekton
-        image: 682452625784.dkr.ecr.us-east-1.amazonaws.com/mavensample-app-tekton:latest
+        image: 682452625784.dkr.ecr.us-east-1.amazonaws.com/mavensample-app-tekton1:latest
         resources:
           requests:
             cpu: "100m"
